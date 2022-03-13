@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  camapp
+//  AhmedCam
 //
-//  Created by Ahmed Assiri on 09/08/1443 AH.
+//  Created by Ahmed Assiri on 11/08/1443 AH.
 //
 
 import UIKit

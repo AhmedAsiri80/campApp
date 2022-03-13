@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FC1C95A627DBF80B009B226B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC1C95A527DBF80B009B226B /* AppDelegate.swift */; };
-		FC1C95A827DBF80B009B226B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC1C95A727DBF80B009B226B /* SceneDelegate.swift */; };
-		FC1C95AA27DBF80B009B226B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC1C95A927DBF80B009B226B /* ViewController.swift */; };
-		FC1C95AD27DBF80B009B226B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC1C95AB27DBF80B009B226B /* Main.storyboard */; };
-		FC1C95AF27DBF80F009B226B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC1C95AE27DBF80F009B226B /* Assets.xcassets */; };
-		FC1C95B227DBF80F009B226B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC1C95B027DBF80F009B226B /* LaunchScreen.storyboard */; };
+		FCEBFCAB27DEA349005F979C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCEBFCAA27DEA349005F979C /* AppDelegate.swift */; };
+		FCEBFCAD27DEA349005F979C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCEBFCAC27DEA349005F979C /* SceneDelegate.swift */; };
+		FCEBFCAF27DEA349005F979C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCEBFCAE27DEA349005F979C /* ViewController.swift */; };
+		FCEBFCB227DEA349005F979C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCEBFCB027DEA349005F979C /* Main.storyboard */; };
+		FCEBFCB427DEA34A005F979C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCEBFCB327DEA34A005F979C /* Assets.xcassets */; };
+		FCEBFCB727DEA34A005F979C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCEBFCB527DEA34A005F979C /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FC1C95A227DBF80B009B226B /* camapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = camapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FC1C95A527DBF80B009B226B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FC1C95A727DBF80B009B226B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FC1C95A927DBF80B009B226B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FC1C95AC27DBF80B009B226B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FC1C95AE27DBF80F009B226B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FC1C95B127DBF80F009B226B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FC1C95B327DBF80F009B226B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCEBFCA727DEA349005F979C /* AhmedCam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AhmedCam.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCEBFCAA27DEA349005F979C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FCEBFCAC27DEA349005F979C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FCEBFCAE27DEA349005F979C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FCEBFCB127DEA349005F979C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FCEBFCB327DEA34A005F979C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FCEBFCB627DEA34A005F979C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FCEBFCB827DEA34A005F979C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FC1C959F27DBF80B009B226B /* Frameworks */ = {
+		FCEBFCA427DEA349005F979C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FC1C959927DBF80B009B226B = {
+		FCEBFC9E27DEA349005F979C = {
 			isa = PBXGroup;
 			children = (
-				FC1C95A427DBF80B009B226B /* camapp */,
-				FC1C95A327DBF80B009B226B /* Products */,
+				FCEBFCA927DEA349005F979C /* AhmedCam */,
+				FCEBFCA827DEA349005F979C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FC1C95A327DBF80B009B226B /* Products */ = {
+		FCEBFCA827DEA349005F979C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FC1C95A227DBF80B009B226B /* camapp.app */,
+				FCEBFCA727DEA349005F979C /* AhmedCam.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FC1C95A427DBF80B009B226B /* camapp */ = {
+		FCEBFCA927DEA349005F979C /* AhmedCam */ = {
 			isa = PBXGroup;
 			children = (
-				FC1C95A527DBF80B009B226B /* AppDelegate.swift */,
-				FC1C95A727DBF80B009B226B /* SceneDelegate.swift */,
-				FC1C95A927DBF80B009B226B /* ViewController.swift */,
-				FC1C95AB27DBF80B009B226B /* Main.storyboard */,
-				FC1C95AE27DBF80F009B226B /* Assets.xcassets */,
-				FC1C95B027DBF80F009B226B /* LaunchScreen.storyboard */,
-				FC1C95B327DBF80F009B226B /* Info.plist */,
+				FCEBFCAA27DEA349005F979C /* AppDelegate.swift */,
+				FCEBFCAC27DEA349005F979C /* SceneDelegate.swift */,
+				FCEBFCAE27DEA349005F979C /* ViewController.swift */,
+				FCEBFCB027DEA349005F979C /* Main.storyboard */,
+				FCEBFCB327DEA34A005F979C /* Assets.xcassets */,
+				FCEBFCB527DEA34A005F979C /* LaunchScreen.storyboard */,
+				FCEBFCB827DEA34A005F979C /* Info.plist */,
 			);
-			path = camapp;
+			path = AhmedCam;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FC1C95A127DBF80B009B226B /* camapp */ = {
+		FCEBFCA627DEA349005F979C /* AhmedCam */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FC1C95B627DBF80F009B226B /* Build configuration list for PBXNativeTarget "camapp" */;
+			buildConfigurationList = FCEBFCBB27DEA34A005F979C /* Build configuration list for PBXNativeTarget "AhmedCam" */;
 			buildPhases = (
-				FC1C959E27DBF80B009B226B /* Sources */,
-				FC1C959F27DBF80B009B226B /* Frameworks */,
-				FC1C95A027DBF80B009B226B /* Resources */,
+				FCEBFCA327DEA349005F979C /* Sources */,
+				FCEBFCA427DEA349005F979C /* Frameworks */,
+				FCEBFCA527DEA349005F979C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = camapp;
-			productName = camapp;
-			productReference = FC1C95A227DBF80B009B226B /* camapp.app */;
+			name = AhmedCam;
+			productName = AhmedCam;
+			productReference = FCEBFCA727DEA349005F979C /* AhmedCam.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FC1C959A27DBF80B009B226B /* Project object */ = {
+		FCEBFC9F27DEA349005F979C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastSwiftUpdateCheck = 1320;
+				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					FC1C95A127DBF80B009B226B = {
-						CreatedOnToolsVersion = 13.0;
+					FCEBFCA627DEA349005F979C = {
+						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = FC1C959D27DBF80B009B226B /* Build configuration list for PBXProject "camapp" */;
+			buildConfigurationList = FCEBFCA227DEA349005F979C /* Build configuration list for PBXProject "AhmedCam" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = FC1C959927DBF80B009B226B;
-			productRefGroup = FC1C95A327DBF80B009B226B /* Products */;
+			mainGroup = FCEBFC9E27DEA349005F979C;
+			productRefGroup = FCEBFCA827DEA349005F979C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FC1C95A127DBF80B009B226B /* camapp */,
+				FCEBFCA627DEA349005F979C /* AhmedCam */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FC1C95A027DBF80B009B226B /* Resources */ = {
+		FCEBFCA527DEA349005F979C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC1C95B227DBF80F009B226B /* LaunchScreen.storyboard in Resources */,
-				FC1C95AF27DBF80F009B226B /* Assets.xcassets in Resources */,
-				FC1C95AD27DBF80B009B226B /* Main.storyboard in Resources */,
+				FCEBFCB727DEA34A005F979C /* LaunchScreen.storyboard in Resources */,
+				FCEBFCB427DEA34A005F979C /* Assets.xcassets in Resources */,
+				FCEBFCB227DEA349005F979C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FC1C959E27DBF80B009B226B /* Sources */ = {
+		FCEBFCA327DEA349005F979C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC1C95AA27DBF80B009B226B /* ViewController.swift in Sources */,
-				FC1C95A627DBF80B009B226B /* AppDelegate.swift in Sources */,
-				FC1C95A827DBF80B009B226B /* SceneDelegate.swift in Sources */,
+				FCEBFCAF27DEA349005F979C /* ViewController.swift in Sources */,
+				FCEBFCAB27DEA349005F979C /* AppDelegate.swift in Sources */,
+				FCEBFCAD27DEA349005F979C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FC1C95AB27DBF80B009B226B /* Main.storyboard */ = {
+		FCEBFCB027DEA349005F979C /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FC1C95AC27DBF80B009B226B /* Base */,
+				FCEBFCB127DEA349005F979C /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FC1C95B027DBF80F009B226B /* LaunchScreen.storyboard */ = {
+		FCEBFCB527DEA34A005F979C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FC1C95B127DBF80F009B226B /* Base */,
+				FCEBFCB627DEA34A005F979C /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FC1C95B427DBF80F009B226B /* Debug */ = {
+		FCEBFCB927DEA34A005F979C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -217,7 +217,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -227,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		FC1C95B527DBF80F009B226B /* Release */ = {
+		FCEBFCBA27DEA34A005F979C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -272,7 +272,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -282,28 +282,27 @@
 			};
 			name = Release;
 		};
-		FC1C95B727DBF80F009B226B /* Debug */ = {
+		FCEBFCBC27DEA34A005F979C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 47D3PLR2U9;
+				DEVELOPMENT_TEAM = KNBWCXWR5X;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = camapp/Info.plist;
+				INFOPLIST_FILE = AhmedCam/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ahmed.camapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ahmed.AhmedCam;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -311,28 +310,27 @@
 			};
 			name = Debug;
 		};
-		FC1C95B827DBF80F009B226B /* Release */ = {
+		FCEBFCBD27DEA34A005F979C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 47D3PLR2U9;
+				DEVELOPMENT_TEAM = KNBWCXWR5X;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = camapp/Info.plist;
+				INFOPLIST_FILE = AhmedCam/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ahmed.camapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ahmed.AhmedCam;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -343,25 +341,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FC1C959D27DBF80B009B226B /* Build configuration list for PBXProject "camapp" */ = {
+		FCEBFCA227DEA349005F979C /* Build configuration list for PBXProject "AhmedCam" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FC1C95B427DBF80F009B226B /* Debug */,
-				FC1C95B527DBF80F009B226B /* Release */,
+				FCEBFCB927DEA34A005F979C /* Debug */,
+				FCEBFCBA27DEA34A005F979C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FC1C95B627DBF80F009B226B /* Build configuration list for PBXNativeTarget "camapp" */ = {
+		FCEBFCBB27DEA34A005F979C /* Build configuration list for PBXNativeTarget "AhmedCam" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FC1C95B727DBF80F009B226B /* Debug */,
-				FC1C95B827DBF80F009B226B /* Release */,
+				FCEBFCBC27DEA34A005F979C /* Debug */,
+				FCEBFCBD27DEA34A005F979C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FC1C959A27DBF80B009B226B /* Project object */;
+	rootObject = FCEBFC9F27DEA349005F979C /* Project object */;
 }
